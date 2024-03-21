@@ -18,7 +18,7 @@ This will allow you to run varios tasks
 
 ## Development instructions
 
-```
+```bash
     nvm use 18
     npm install
     npm run dev
